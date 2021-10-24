@@ -1,0 +1,13 @@
+.todoItem {
+  display: flex;
+  flex-direction: row !important;
+  align-items: center;
+  justify-content: space-between;
+}
+.todoItem .icons {
+  cursor: pointer;
+  font-size: 24px;
+}
+.todoText {
+  cursor: pointer;
+}
